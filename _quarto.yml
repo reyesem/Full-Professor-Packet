@@ -1,0 +1,59 @@
+project:
+  type: book
+  output-dir: 'docs'
+
+book:
+  title: 'PTR Portfolio'
+  output-file: 'reyes-full-portfolio'
+  author: |
+    | Eric M Reyes
+    | Department of Mathematics
+    | Rose-Hulman Institute of Technology
+  
+  downloads: [pdf]
+  reader-mode: true
+  search: true
+  
+  sidebar: 
+    style: docked
+    title: 'Reyes Portfolio'
+    
+  
+  date: last-modified
+  date-format: '[Submitted: ] MMMM YYYY'
+  
+  chapters:
+    - index.qmd
+    - 01-teaching.qmd
+    - 02-pd.qmd
+    - 03-service.qmd
+    - 04-request.qmd
+  appendices: 
+    - app-cv.qmd
+    - app-far.qmd
+    - app-dh.qmd
+    
+language:
+  section-title-appendices: "Required Documents"
+
+comments: 
+  hypothesis: false
+
+format:
+  html:
+    theme: cosmo
+    css: mystyles.css
+  pdf:
+    documentclass: scrreprt
+    keep-tex: true
+    include-in-header:
+      - text: |
+          \usepackage{pdfpages}
+
+execute:
+  echo: false
+  warning: false
+  error: false
+  
+fig-align: center
+fig-cap-location: bottom

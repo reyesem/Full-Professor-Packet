@@ -1,0 +1,77 @@
+# Faculty Activity Reports
+
+:::{.content-visible when-format="pdf"}
+\includepdf[pages=1, link, linkname=ReyesFAR1213, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1213}}]{supportingdocs/ReyesFAR1213}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1213}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1314, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1314}}]{supportingdocs/ReyesFAR1314}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1314}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1415, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1415}}]{supportingdocs/ReyesFAR1415}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1415}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1516, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1516}}]{supportingdocs/ReyesFAR1516}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1516}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1617, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1617}}]{supportingdocs/ReyesFAR1617}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1617}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1718, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1718}}]{supportingdocs/ReyesFAR1718}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1718}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1819, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1819}}]{supportingdocs/ReyesFAR1819}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1819}
+
+\includepdf[pages=1, link, linkname=ReyesFAR1920, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY1920}}]{supportingdocs/ReyesFAR1920}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR1920}
+
+\includepdf[pages=1, link, linkname=ReyesFAR2021, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY2021}}]{supportingdocs/ReyesFAR2021}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR2021}
+
+\includepdf[pages=1, link, linkname=ReyesFAR2122, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY2122}}]{supportingdocs/ReyesFAR2122}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR2122}
+
+\includepdf[pages=1, link, linkname=ReyesFAR2223, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY2223}}]{supportingdocs/ReyesFAR2223}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR2223}
+
+\includepdf[pages=1, link, linkname=ReyesFAR2324, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Faculty Activity Report, AY2324}}]{supportingdocs/ReyesFAR2324}
+\includepdf[pages=2-]{supportingdocs/ReyesFAR2324}
+:::
+
+:::{.content-visible when-format="html"}
+## Faculty Activity Report, AY1213 {.appendix}
+![](supportingdocs/ReyesFAR1213.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1314 {.appendix}
+![](supportingdocs/ReyesFAR1314.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1415 {.appendix}
+![](supportingdocs/ReyesFAR1415.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1516 {.appendix}
+![](supportingdocs/ReyesFAR1516.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1617 {.appendix}
+![](supportingdocs/ReyesFAR1617.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1718 {.appendix}
+![](supportingdocs/ReyesFAR1718.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1819 {.appendix}
+![](supportingdocs/ReyesFAR1819.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY1920 {.appendix}
+![](supportingdocs/ReyesFAR1920.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY2021 {.appendix}
+![](supportingdocs/ReyesFAR2021.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY2122 {.appendix}
+![](supportingdocs/ReyesFAR2122.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY2223 {.appendix}
+![](supportingdocs/ReyesFAR2223.pdf){width=100% height=900}
+
+## Faculty Activity Report, AY2324 {.appendix}
+![](supportingdocs/ReyesFAR2324.pdf){width=100% height=900}
+:::

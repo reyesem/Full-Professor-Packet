@@ -1,0 +1,33 @@
+```{r}
+#| include: false
+
+# Define default chunk options
+knitr::opts_chunk$set(
+  fig.path = './images/',
+  out.width = '80%'
+)
+
+
+# Load necessary packages
+library(tidyverse)
+library(reyesr)
+
+
+# Additional Options
+options(knitr.kable.NA = '',
+        dplyr.show_progress = FALSE,
+        contrasts = rep('contr.treatment', 2))
+
+# Graphic Options
+theme_set(theme_bw(12))
+theme_update(legend.position = 'bottom',
+             legend.box = 'vertical',
+             legend.direction = 'horizontal')
+```
+
+```{r}
+#| echo: false
+#| output: asis
+
+reyesr::print_latex_commands()
+```

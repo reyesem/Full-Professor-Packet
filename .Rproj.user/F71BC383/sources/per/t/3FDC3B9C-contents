@@ -1,0 +1,77 @@
+# Department Head Reviews
+
+:::{.content-visible when-format="pdf"}
+\includepdf[pages=1, link, linkname=DHReview1213, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1213}}]{supportingdocs/DHReview1213}
+\includepdf[pages=2-]{supportingdocs/DHReview1213}
+
+\includepdf[pages=1, link, linkname=DHReview1314, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1314}}]{supportingdocs/DHReview1314}
+\includepdf[pages=2-]{supportingdocs/DHReview1314}
+
+\includepdf[pages=1, link, linkname=DHReview1415, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1415}}]{supportingdocs/DHReview1415}
+\includepdf[pages=2-]{supportingdocs/DHReview1415}
+
+\includepdf[pages=1, link, linkname=DHReview1516, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1516}}]{supportingdocs/DHReview1516}
+\includepdf[pages=2-]{supportingdocs/DHReview1516}
+
+\includepdf[pages=1, link, linkname=DHReview1617, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1617}}]{supportingdocs/DHReview1617}
+\includepdf[pages=2-]{supportingdocs/DHReview1617}
+
+\includepdf[pages=1, link, linkname=DHReview1718, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1718}}]{supportingdocs/DHReview1718}
+\includepdf[pages=2-]{supportingdocs/DHReview1718}
+
+\includepdf[pages=1, link, linkname=DHReview1819, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1819}}]{supportingdocs/DHReview1819}
+\includepdf[pages=2-]{supportingdocs/DHReview1819}
+
+\includepdf[pages=1, link, linkname=DHReview1920, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY1920}}]{supportingdocs/DHReview1920}
+\includepdf[pages=2-]{supportingdocs/DHReview1920}
+
+\includepdf[pages=1, link, linkname=DHReview2021, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY2021}}]{supportingdocs/DHReview2021}
+\includepdf[pages=2-]{supportingdocs/DHReview2021}
+
+\includepdf[pages=1, link, linkname=DHReview2122, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY2122}}]{supportingdocs/DHReview2122}
+\includepdf[pages=2-]{supportingdocs/DHReview2122}
+
+\includepdf[pages=1, link, linkname=DHReview2223, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY2223}}]{supportingdocs/DHReview2223}
+\includepdf[pages=2-]{supportingdocs/DHReview2223}
+
+\includepdf[pages=1, link, linkname=DHReview2324, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Dept. Head Review, AY2324}}]{supportingdocs/DHReview2324}
+\includepdf[pages=2-]{supportingdocs/DHReview2324}
+:::
+
+:::{.content-visible when-format="html"}
+## Dept. Head Review, AY1213 {.appendix}
+![](supportingdocs/DHReview1213.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1314 {.appendix}
+![](supportingdocs/DHReview1314.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1415 {.appendix}
+![](supportingdocs/DHReview1415.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1516 {.appendix}
+![](supportingdocs/DHReview1516.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1617 {.appendix}
+![](supportingdocs/DHReview1617.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1718 {.appendix}
+![](supportingdocs/DHReview1718.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1819 {.appendix}
+![](supportingdocs/DHReview1819.pdf){width=100% height=900}
+
+## Dept. Head Review, AY1920 {.appendix}
+![](supportingdocs/DHReview1920.pdf){width=100% height=900}
+
+## Dept. Head Review, AY2021 {.appendix}
+![](supportingdocs/DHReview2021.pdf){width=100% height=900}
+
+## Dept. Head Review, AY2122 {.appendix}
+![](supportingdocs/DHReview2122.pdf){width=100% height=900}
+
+## Dept. Head Review, AY2223 {.appendix}
+![](supportingdocs/DHReview2223.pdf){width=100% height=900}
+
+## Dept. Head Review, AY2324 {.appendix}
+![](supportingdocs/DHReview2324.pdf){width=100% height=900}
+:::

@@ -1,0 +1,10 @@
+# Curriculum Vitae
+
+:::{.content-visible when-format="pdf"}
+\includepdf[pages=1, link, linkname=CV, pagecommand={\thispagestyle{empty}\phantomsection\addcontentsline{toc}{section}{Curriculum Vitae}}]{supportingdocs/ReyesCV}
+\includepdf[pages=2-]{supportingdocs/ReyesCV}
+:::
+
+:::{.content-visible when-format="html"}
+![](supportingdocs/ReyesCV.pdf){width=100% height=900}
+:::

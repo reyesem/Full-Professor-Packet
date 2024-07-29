@@ -1,0 +1,111 @@
+# A Teacher, but Not an Educator
+
+> Teachers can fan flames that are already there, but usually cannot create the spark that first attracts a person to something...There is no accounting for desire.  Who knows why we are drawn to the things that attract us.  Teachers exist to serve such attractions, not create them; otherwise we are no longer teacher[s] but evangelists. (Sells)[^Sells]
+
+[^Sells]: [Sells, Ben. _The Soul of Sailing_. (2019)](https://www.amazon.com/Soul-Sailing-Benjamin-Sells/dp/1710340894)
+
+> Assigning grades was the easy way out of doing the "actual work" of teaching...When I eliminated grades it tested my creativity and patience.  I was forced to rethink what went on in my class. (Blackwelder)[^Blackwelder]
+
+[^Blackwelder]: [Aaron Blackwelder in _Ungrading: Why Rating Students Undermines Learning (and what to Do Instead)_ (2020), edited by Susan Blum.](https://wvupressonline.com/ungrading)
+
+
+These two quotes, side by side, capture the battle that has waged within me over the years as I have navigated my role in the classroom.  Like Blackwelder, the idealist in me believes in connecting with others and inspiring them to learn; however, the realist in me resonates with Sells, accepting that I cannot manifest in someone the same joy in the material I have.  In an attempt to reconcile these ideas, we might distinguish between a teacher and an educator.
+
+:::{.callout-tip}
+## Educator vs. Teacher
+A teacher provides instruction, guidance, and feedback during the learning process.  In contrast, an educator goes beyond teaching, inspiring students toward an interest and passion in the material.
+:::
+
+My growth as a teacher has coincided with a decrease in my student course evaluations.  Understanding that these evaluations primarily reflect the student experience, I believe this trend reveals that I have struggle more and more to connect with my students, making it difficult to inspire them.  As a result, I am not the educator I aspire to be; however, I have leaned into what I view as my primary responsibility as a teacher: providing rich learning opportunities.
+
+:::{.callout-important}
+## My Professional Mission as a Teacher
+To _design high quality learning experiences_ for students who want to use data with integrity and educators who want to impact students.
+:::
+
+During the Fall of 2020, my grandmother was losing her battle with cancer.  With the COVID pandemic at its height, my courses had transitioned to a hybrid delivery meeting twice weekly, and I leveraged this to be with my grandmother during her final days.  I would lead four sections of my Introductory course, then drive North of Indianapolis to spend time with family and help where I could, shifting between helping make a meal and meeting with students on Teams.  Forty-eight hours later, I would return to Terre Haute for the next class meeting.  The flexibility that had been built into my course allowed me to be present with students and my family in a way that I would not have previously thought possible.  I place high importance on designing learning experiences that are flexible.  
+
+:::{.callout-tip}
+## Flexibility in Course Design
+Students benefit from structure in a course, but designing those structures to be flexible allows learning to take place in the midst of external shocks to the life of the professor and/or students.
+:::
+
+Since the pandemic, I have transitioned the vast majority of my courses to a hybrid structure to promote flexibility for my students (and myself) and allow me to operate out of my strengths.  But, this transition has required that I commit time to creating resources to promote student success in this environment.  For example, I converted my lecture notes to online texts.[^textbooks]  Available online (and for download as a PDF), the design of this portfolio mimics the design of the texts available to students.  In addition to a text, my courses include videos covering key concepts and examples (see @fig-confounding-video for an example); and, note packets guide students through the resources and encourage them to take a more active role in summarizing content.  
+
+[^textbooks]: I have a text for each course I teach regularly, including [MA223 Introductory Statistics](https://reyesem.github.io/introstat-text/), [MA482 Biostatistics](https://reyesem.github.io/biostat-text/), and [MA483 Bayesian Statistics](https://reyesem.github.io/bayes-text/).  I revise the materials and continue to develop new material as my courses develop.
+
+::::{#fig-confounding-video}
+:::{.content-visible when-format="html"}
+<iframe src="https://rose-hulman.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2bb062ec-399b-43dd-b188-b1af016191f1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" width="100%" height="100%" style="aspect-ratio: 16/9; border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Concept Clip Confounding" ></iframe>
+:::
+
+:::{.content-visible when-format="pdf"}
+[![](img-concept-clip.jpg)](https://rose-hulman.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bb062ec-399b-43dd-b188-b1af016191f1)
+:::
+
+Example "concept clip" used in my Introductory Statistics course to discuss confounding.
+::::
+
+:::{.callout-note}
+## Importance of Moodle
+Moodle plays an integral part of my course design, and it is an extension of my classroom (or maybe, the classroom is an extension of my Moodle course).  A visit to my class would not tell you nearly as much about my teaching philosophy as my Moodle course.  For those interested, I have an example course available to peruse by [clicking here](https://moodle.rose-hulman.edu/course/view.php?id=104992).  
+:::
+
+A course calendar provides guidance on pacing through the material between class meetings, but the resources are available for students to review as their schedule permits.
+
+  > One strength of the course is the flipped classroom. Being able to watch the lecture videos whenever I needed them helped me learn the content at my pace, and review the content when I did not fully grasp the topic. (MA223 student)
+  
+:::{.callout-note}
+## MA223 Introductory Statistics
+Named "Engineering Statistics I," [MA223](https://reyesem.github.io/ma223sample.html) is the introductory statistics course required by most science and engineering programs on campus.  The course emphasizes statistical literacy (speaking the language of statistics and interpreting statistical methods and results), reasoning (defining the need for data to address questions, understanding the role and impact of variability), design (approaches to data collection and the impact of the study design on the conclusions), and analysis (choosing an appropriate methodology and using a statistical computing environment to carry out an analysis).  The concepts are introduced in the context of science and engineering applications.
+:::
+
+Primary content delivery happens remotely.  In-class meetings are reserved for topics that would benefit from discussions or additional examples, attempting to take more abstract concepts and make them tangible.  I broadcast these discussions on Teams so that students can engage remotely if they are unable to attend in person.  To provide flexibility during assessments, I have transitioned to take-home exams and emphasize projects, often allowing students to collaborate.  This also facilitates my transition to alternative grading schemes, which relies on students revising work.
+
+  > The revision system really assisted with my learning, along with the resources the professor provided. Although the course was difficult, the course structure allowed for me to learn material quicker and more effectively. (MA483 student)
+  
+:::{.callout-note}
+## MA483 Bayesian Data Analysis
+An interesting course in the curriculum, [MA483](https://reyesem.github.io/ma483sample.html) provides a different framework for conducting statistical inference.  It acts as both an upper-level elective for those who are specializing in statistics as well as an alternate introductory course for those in disciplines that require only probability (such as computer science and electrical engineering).
+:::
+
+The asynchronous days are not "days off."  In order to meet deadlines, students are expected to engage with material daily, as outlined in the course calendar.  Asynchronous days also provide ample opportunity for me to meet with students to address questions over assignments.  While some students prefer in-person meetings, I have a growing number that prefer engaging remotely.  For some students, they enjoy the convenience of reaching out from their residence hall (or academic space) without needing to pack up and trek to my office.  Others take advantage of receiving help when they are feeling ill.  I enjoy being able to have students share their screen when debugging code.  I also have noticed an increase in the number of students who prefer to correspond over Teams messages, sharing screen shots of work as necessary; I find this benefits students who are internal processors.  It removes that additional, and unnecessary, anxiety that accompanies a feeling of needing to respond to my prompts immediately; instead, they take the time they need.
+
+  > Dr. Reyes was always helpful and available outside of class which was much appreciated. (MA386 student)
+  
+:::{.callout-note}
+## MA386 Statistical Programming
+[MA386](https://reyesem.github.io/ma386sample.html) introduces students to the computational tools and skills necessary to operate at all stages of the "analysis pipeline."  This course is popular among students seeking a minor in Data Science as well as those in the biological sciences, as it prepares them for working with data in their own projects.
+:::
+
+Each of these decisions regarding my course design has been in the pursuit of courses that add flexibility --- flexibility that I hope removes the stress to perform in the midst of other demands and gives students space to enjoy the learning.
+
+  > This is, by far, one of my favorite classes that I have ever taken at Rose. Dr. Reyes was definitely a large part in this class being so enjoyable - his teaching methods, avaibility for offering help, and general attitude made me feel excited to be engaged in the class...Course policies were clearly oriented to help me learn more than anything else. (MA482 student)
+  
+:::{.callout-note}
+## MA482 Biostatistics
+The biological sciences often yield data that present unique challenges to analysis.  A second course in statistics, [MA482](https://reyesem.github.io/ma482sample.html) introduces these challenges and the statistical methods employed to overcome them. 
+:::
+
+My course design was influenced heavily by [universal design for learning](https://udlguidelines.cast.org/) concepts, especially trying to promote accessibility.  My syllabi include an infographic cover page that summarizes key policies; un-timed take-home assessments have eliminated testing accommodations; and, video lectures with captions allow students to take in the material at their pace.  While I believe all students benefit from these policies, they do require discipline on the part of the student, and not all students respond well to the structure.  The primary concern I hear is that students believe they are "teaching themselves" because I do not lecture regularly in class.  This is particularly true in the introductory course.
+
+  > I felt like I was teaching myself this course and had to put so much effort into just figuring out what I'm missing. (MA223 student)
+  
+  > The learning in the class is reliant heavily on the student. (MA223 student)
+  
+I design the learning opportunities, but I do not force the students to engage with them, and as a result, I admit that I do lose some students.  Yet, I stick with this structure because it allows me to operate out of my strengths.  I deliver good lectures, but I do not think I resonate best with students in that format.  Especially over the past few years, I have found it challenging to connect with students broadly.  Examples from their discipline; stories from those in industry; personal experience; topics in social justice; even self-deprecating humor...these tactics that once drew students in are failing me.  As a result, my lectures only reach those who are intrinsically motivated --- a small percentage of students.  Transitioning away from lecture being at the forefront allows my class to rely heavily on multimedia, tutorials, and assignments crafted to encourage questions.  And, I think I am better at constructing these resources than constructing lectures.  My course structure provides time for me to engage with students on these assignments through a variety of media that I am very comfortable in (whether in person or on Teams messages, emails, etc.) and allows for ample time to give feedback on those assignments.  This feedback is integral to the alternative grading structures that are fundamental to how learning takes place in my courses.
+
+  > Even though I might have not gotten full credit on an assignment the first time, I was allowed to go back and read the feedback of where I went wrong, and resumbit again for full credit. I very much perfer this class structure because it actually encourages learning through mistakes... (MA223 student)
+  
+Essentially, I believe this structure capitalizes on my strengths as a _teacher_ and minimizes the impacts of my struggles as an _educator_.  One shortcoming that my approach has highlighted is my compulsion to "reinvent the wheel."  In putting together resources for my students, I create things from scratch.  I rarely rely on published texts or existing videos.  I prefer to control the narrative, and that does take time.  I have at times overcome my own ego in this regard; due to the speed at which the content changes, I rely on existing resources for MA386 Statistical Programming.  However, I review and update the resources each time I teach the course.
+
+As I consider my path, I would like to improve on how I advise senior capstone experiences.  Some of my previous experiences have been amazing, but many more have fallen short of my expectations.  In these instances, I have both failed to motivate the student to the benefits of these capstones and to provide the structure necessary to help them succeed (erring on the side of too much flexibility).  For the past few months, I have worked with Megan Heyman on redesigning the senior capstone experience for students interested in Statistics.  Fall 2024 will be our first time implementing the new structure; however, having approached this as a course design, and with Megan's strengths in adding structure, I am already certain it will be an improvement.
+
+During the summer of 2020, the Institute recognized the need for a coordinated response to teaching during the pandemic, both through delivering course content in alternate formats but also training faculty to design courses that leverage these modalities.  Having taught online and served as our department's Moodle mentor for a number of years, I was thrilled when Kay C Dee and Ella Ingram asked me to be a mentor for the Creating Adaptable Courses curriculum and the Y1 course creation efforts heading into the 2020-2021 academic year.  We believed in this training effort so much that a group of us authored a book chapter (appearing in [_Resilient Pedagogy: Practical Teaching Strategies to Overcome Distance, Disruption, and Distraction_](https://uen.pressbooks.pub/resilientpedagogy/)) describing the curriculum for other course designers. 
+
+Being a part of the Creating Adaptable Courses curriculum also reminded me how much I enjoy supporting faculty course development.  Over the following summers, I became more involved in the Fall Teaching Workshop for incoming faculty.  At Ella's invitation, I led a session on backward design during the 2021 Workshop, and I have co-organized the 2022 (with Ella Ingram), 2023 (with Rich House), and 2024 (with Rich House and Aimee Cloutier) workshops.  My largest contribution to the workshop has been working with Kay C Dee to transform the "Introduction to Moodle" session into an opportunity for new faculty to begin developing their course Moodle pages alongside senior faculty with whom they will be co-teaching. This experience can be rewarding to both incoming faculty (grateful to begin course prep) and senior faculty (integrating fresh perspectives of the new faculty).  This is an example of where the _design_, not the implementation, is where I have had an impact.  During the session, I answer a few questions, but I mostly just watch the magic happen.
+
+:::{.callout-tip}
+## Operating from My Strengths
+While I have struggled to motivate students, I am at my best when designing the course.  Those designs play to my strengths in remote engagement, but they are driven by flexibility.
+:::
