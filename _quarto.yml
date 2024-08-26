@@ -5,10 +5,11 @@ project:
 book:
   title: 'PTR Portfolio'
   output-file: 'reyes-full-portfolio'
-  author: |
-    | Eric M Reyes
-    | Department of Mathematics
-    | Rose-Hulman Institute of Technology
+  author: 
+    name: Eric M Reyes
+    affiliation: 
+      name: Rose-Hulman Institute of Technology
+      department: Department of Mathematics
   
   downloads: [pdf]
   reader-mode: true

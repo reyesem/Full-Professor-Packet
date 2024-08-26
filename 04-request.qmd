@@ -4,12 +4,13 @@
 
 [^Incredibles]: Holly Hunter as Helen Parr (Elastigirl) in _The Incredibles_.
 
-My degree is in Statistics.  I teach Statistics courses, apply statistical methods to advance the research of others, and collaborate and serve within the Statistics Education community.  I belong to the American Statistical Association.  I am a Statistician...and, I happen to be housed in the Department of Mathematics.  I am not a Mathematician (and I fear that if my colleagues pressed my mathematical knowledge, they would revoke my undergraduate degree).
+As you reflect on your career and its trajectory, it is natural to also consider your title and its connotations. My advanced degrees are in Statistics.  I teach Statistics courses, apply statistical methods to advance the research of others, collaborate and serve within the Statistics Education community, and I am a member of the American Statistical Association.  I am a Statistician who is housed in the Department of Mathematics.[^statvmath]
 
-While I understand it is a bold request, if you determine my portfolio warrants promotion, I ask that you consider promoting me to "Professor of _Statistics_."  
+As this packet serves as a formal request for promotion, it seems an appropriate venue to request consideration of a change in my title.  If you determine my portfolio warrants promotion, I ask that you consider promoting me to "Professor of _Statistics_."
 
-I understand this would be unprecedented within the Department of Mathematics.  I can appreciate the need for rules, and I respect the argument against such a title: we do not offer a program in Statistics; it might signal a "separation" from colleagues in my department and promote disunity; some see Statistics as a sub-discipline of Mathematics instead of a separate discipline[^statvmath].  And still, I believe a change in title would more accurately reflect both my expertise and my contributions within the Institute and more broadly.  
+I realize that, beyond the Department of Humanities, Social Sciences, and the Arts, faculty titles at Rose-Hulman have historically been tied to the name of the department. Therefore, this request is somewhat unprecedented at Rose-Hulman.  It also potentially has implications for other faculty here that, similarly, have an advanced degree in a field that is not reflected in the department name.  And, I can appreciate the potential concerns with such a change in title.  I would have no hesitations in leading conversations among faculty and the administration to determine appropriate policies for selecting titles that accurately reflect a faculty member's expertise/discipline.
 
 I appreciate your consideration. 
+
 
 [^statvmath]: While not universally settled, the majority of statisticians view Statistics as a discipline that, while relying heavily on Mathematics, is distinct from Mathematics.  As examples, the [article by Tran and Lee](https://fi-courses.s3.amazonaws.com/tsdi/unit_2/Essentials/Statvsmath.pdf) and the [article by Moore and Cobb](https://www.stat.purdue.edu/~dsmoore/articles/Statmath.pdf) illustrate the differences.
